@@ -9,7 +9,7 @@ def createDataSet():
     Parameters:
         无
     Returns:
-        group - 数据集
+        group - 数据集 
         labels - 分类标签
     """
     # 四组二维特征
